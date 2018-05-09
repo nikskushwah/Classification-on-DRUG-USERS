@@ -1,0 +1,7 @@
+References :-
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+http://scikit-learn.org/stable/modules/naive_bayes.html
+http://scikit-learn.org
+http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+https://pandas.pydata.org/
